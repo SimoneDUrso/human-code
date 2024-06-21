@@ -7,7 +7,7 @@ Che barba, che noia, che noia, che barba!
 Perché ci si mette sempre un’ora a scegliere cosa guardare la sera? Certo è difficile mettere d’accordo i gusti di tutti, poi dipende anche in base al tempo (o al sonno) che abbiamo. Delle volte si pensa di vedere quel bel film che ci hanno consigliato, mentre altre volte si viene risucchiati da quella serie tv che ci tiene incollati allo schermo. Che senso di vuoto quando poi finisce!
 
 
-<!-- SOSLUZIONE TRACCIA NUMERO 3 -->
+<!-- SOLUZIONE TRACCIA NUMERO 3 -->
 
 ? SE hai voglia di guardare Netflix
 
@@ -28,7 +28,7 @@ Perché ci si mette sempre un’ora a scegliere cosa guardare la sera? Certo è 
         >> : ALTRIMENTI se hai poco tempo
             >>> Guarda una serie TV
             >>> Scegli il genere che più preferisci.
-                >>>> ? SE ti piace il genere horror
+                >>>> ? SE ti piace il genere romantico
                     >>>>> Controlla che ci sia una serie romantica che ti aggrada
                         >>>>>> Guardala. FINE
                         >>>>>> : ALTRIMENTI Torna alla scelta del genere.
@@ -38,5 +38,5 @@ Perché ci si mette sempre un’ora a scegliere cosa guardare la sera? Certo è 
                         >>>>> Guardala. FINE
                         >>>>>  : ALTRIMENTI Torna alla scelta del genere. 
 
-? SE non hai voglia di guardare NETFLIX fai altro o vai a letto.
+: ALTRIMENTI se non hai voglia di guardare NETFLIX fai altro o vai a letto.
 
